@@ -1,3 +1,4 @@
+#!/bin/bash
 $ ./3-listfiles
 total 16
 -rw-rw-r-- 1 vagrant vagrant 161 Jan 29 00:06 0-current_working_directory
