@@ -1,0 +1,9 @@
+#!/bin/bash
+vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x00-shell_basics$ pwd
+/home/vagrant/holberton-system_engineering-devops/0x00-shell_basics
+vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x00-shell_basics$ echo $HOME
+/home/vagrant/holberton-system_engineering-devops
+jvagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x00-shell_basics$ source ./2-bring_me_home
+vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x00-shell_basics$ pwd
+/home/vagrant/holberton-system_engineering-devops
+vagrant@vagrant-ubuntu-trusty-64:~/holberton-system_engineering-devops/0x00-shell_basics$
