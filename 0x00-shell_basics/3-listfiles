@@ -1,8 +1,2 @@
 #!/bin/bash
-$ ./3-listfiles
-total 16
--rw-rw-r-- 1 vagrant vagrant 161 Jan 29 00:06 0-current_working_directory
--rw-rw-r-- 1 vagrant vagrant  51 Jan 29 00:17 1-listit
--rw-rw-r-- 1 vagrant vagrant 675 Jan 29 01:03 2-bring_me_home
--rw-rw-r-- 1 vagrant vagrant  80 Jan 29 00:12 README.md 
-$
+ls -l
